@@ -3,7 +3,7 @@ Sou estudante de graduação🎓 em Ánalise e Desenvolvimento de Sistemas. Sou 
 <div align="center">
   <a href="https://github.com/JuniorDaniel01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorDaniel01&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorDaniel&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorDaniel&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
