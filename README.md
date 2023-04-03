@@ -1,4 +1,4 @@
-## Olá! Eu sou o Daniel Sales 🤓
+## Olá, Mundo!👋 Eu sou o Daniel Sales! 
 Sou estudante de graduação🎓 em Ánalise e Desenvolvimento de Sistemas. Sou um entusiasta de tecnologia 💻 😃 apaixonado por aprender e trabalhar com novas tecnologias.
 <div align="center">
   <a href="https://github.com/JuniorDaniel01">
