@@ -18,10 +18,9 @@ Atualmente cursando graduação🎓 em Ánalise e Desenvolvimento de Sistemas. S
  ##           
            
 </div>
-
- 
+  
 <div> 
-  # **Conecte-se comigo no Linkedin!** <h1>
+  ## Conecte-se comigo no Linkedin!
   <br>
   <br>
   <a href="https://www.linkedin.com/in/juniorsales01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-         %230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
