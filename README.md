@@ -20,6 +20,7 @@ Atualmente cursando graduação🎓 em Ánalise e Desenvolvimento de Sistemas. S
 <div style="display: inline_block">
   <b>Tecnologias que estou estudando</b> <h1>
  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+##
 <br>
 <br>
 Conecte-se comigo no Linkedin!           
