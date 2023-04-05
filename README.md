@@ -1,11 +1,7 @@
 ## Olá, Mundo!👋 Eu sou o Daniel Sales! 
 Carreira em evolução na área de Análise e Desenvolvimento de Sistemas, com experiência em desenvolvimento web.
 Atualmente cursando graduação🎓 em Ánalise e Desenvolvimento de Sistemas. Sou um entusiasta de tecnologia 💻 😃 apaixonado por aprender e trabalhar com novas tecnologias.
-<div align="center">
-  <a href="https://github.com/JuniorDaniel01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorDaniel01&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorDaniel&layout=compact&langs_count=7&theme=merko"/>
-</div>
+
 <br>
 <br>
 
