@@ -17,6 +17,7 @@ Atualmente cursando graduação🎓 em Ánalise e Desenvolvimento de Sistemas. S
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <br>
+<br>
 <div style="display: inline_block">
   <b>Tecnologias que estou estudando</b> <h1>
  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
