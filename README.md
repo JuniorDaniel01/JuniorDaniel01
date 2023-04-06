@@ -26,8 +26,7 @@ Atualmente cursando graduação🎓 em Ánalise e Desenvolvimento de Sistemas. S
 </div>
   
 <div>
-<b> Conecte-se comigo no Linkedin! </b>   
-<b> Conecte-se comigo no Linkedin! </b>
+<b> Conecte-se comigo no Linkedin! </b>  
 </div>
 
 <div> 
