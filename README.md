@@ -1,6 +1,6 @@
 ## Olá, Mundo!👋 Eu sou o Daniel Sales! 
 Carreira em evolução na área de Análise e Desenvolvimento de Sistemas, com experiência em desenvolvimento web.
-Atualmente cursando graduação🎓 em Ánalise e Desenvolvimento de Sistemas. Sou um entusiasta de tecnologia 💻 😃 apaixonado por aprender e trabalhar com novas tecnologias.
+Atualmente cursando graduação🎓 em Ánalise e Desenvolvimento de Sistemas. Sou um entusiasta da tecnologia 💻 😃 apaixonado por aprender e trabalhar com novas tecnologias.
 
 <br>
 <br>
