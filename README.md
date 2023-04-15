@@ -6,7 +6,7 @@ Career evolving in Systems Analysis and Development, with experience in web deve
 
 <div style="display: inline_block">
   
-  <b>Tecnologias que estou apto a trabalhar🚀</b> <h1>
+  <b>Technologies I'm able to work with 🚀</b> <h1>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
@@ -18,14 +18,14 @@ Career evolving in Systems Analysis and Development, with experience in web deve
 
 <div style="display: inline_block">
   
-<b>Tecnologias que estou estudando</b> <h1>
+<b>Technologies I'm studying</b> <h1>
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <br>
 </div>
   
 <div>
-<b> Conecte-se comigo no Linkedin! </b>  
+<b>Connect with me on Linkedin!</b>  
 </div>
 
 <div> 
